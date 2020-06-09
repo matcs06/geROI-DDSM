@@ -22,4 +22,6 @@ img.save("cropppedNew.png")
 
 ```
 
-3. Obs: The cordinates file have to be in the same folder as your python code, or you can append the the directory the the file is stored in your python code.
+3. Obs: The cordinates file have to be in the same folder as your python code, or you can append the the directory the the file is stored in your python code. And also, the overlay file should correspond the immage you want to crop(same name).
+
+<img src="./img.JPG"/>
